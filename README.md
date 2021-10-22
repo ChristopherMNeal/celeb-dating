@@ -1,8 +1,8 @@
-# _ _
+c# _Celebrity Dating Website_
 
-#### By _**Christopher Neal &**_
+#### By _**Christopher Neal, Aaron Minnick & Jeff Terrell**_
 
-#### _ _
+#### _Which Bob's Burgers Character Should You Date?_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This page practices_
+_This page will match you with a Bob's Burgers Character you should date.  It demonstrates knowledge of Javascript branching, forms, jQuery, Bootstrap, HTML, and CSS._
 
 ## Setup/Installation Requirements
 
@@ -29,4 +29,4 @@ _None_
 
 _[MIT](https://opensource.org/licenses/MIT)_
 
-Copyright (c) _21 October 2021_ _Christopher Neal &_
+Copyright (c) _21 October 2021_ _Christopher Neal, Aaron Minnick & Jeff Terrell_
